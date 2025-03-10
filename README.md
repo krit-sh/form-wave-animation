@@ -1,12 +1,41 @@
-# React + Vite
+```md
+# Form Wave Animation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive login form with a wave animation effect on labels. Built using **React** and **CSS**, this project enhances the user experience with smooth transition effects when typing in input fields.
 
-Currently, two official plugins are available:
+![Form Wave Animation](https://user-images.githubusercontent.com/your-username/demo.gif) <!-- Replace with an actual GIF or screenshot link -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Smooth wave animation for form labels.
+- Fully responsive design optimized for all devices.
+- Clean and minimal UI with aesthetic transitions.
+- Built with React and modern CSS for better performance.
 
-## Expanding the ESLint configuration
+## 📌 Live Demo
+[Check it out here](https://krit-sh.github.io/form-wave-animation/) <!-- Add GitHub Pages link if deployed -->
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Installation & Setup
+To run this project locally, follow these steps:
+
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/krit-sh/form-wave-animation.git
+   ```
+2. **Navigate to the Project Directory**
+   ```sh
+   cd form-wave-animation
+   ```
+3. **Install Dependencies**
+   ```sh
+   npm install
+   ```
+4. **Run the Project**
+   ```sh
+   npm run dev
+   ```
+5. Open `http://localhost:5173` in your browser.
+
+## 🛠 Technologies Used
+- **React+Vite** – For building the UI components.
+- **CSS** – For animations and styling.
+- **JavaScript (ES6)** – For dynamic DOM manipulations.
